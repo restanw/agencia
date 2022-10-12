@@ -21,7 +21,7 @@
         <a href="#" title="Tours">Tours</a>
       </li>
       <li>
-        <a class="btn" href="<?= base_url()?>Landing/login" title="Register / Log In">Registrate/Loging</a>
+        <a class="btn" href="<?= base_url()?>Landing/login" title="">Registrate/Loging</a>
       </li>
     </ul>
   </nav>
